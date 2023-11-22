@@ -7,5 +7,5 @@
  - Thorough Exploratory Data Analysis
  - Clean Visualizations to Understand the Dataset
  - My own implementation of a Linear Regression Model
- - Price Predictions to have an overall accuracy of > 90%
+ - Stock Price Predictions to have an overall accuracy of > 90%
 
